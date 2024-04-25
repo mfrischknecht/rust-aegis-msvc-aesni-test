@@ -5,7 +5,7 @@ version = 3
 [[package]]
 name = "aegis"
 version = "0.6.2"
-source = "git+https://github.com/mfrischknecht/rust-aegis.git?branch=debug#fc1cf867872c9640ae0142dd6c1112dc4263cf79"
+source = "git+https://github.com/mfrischknecht/rust-aegis.git?branch=debug#1c89b7e66bdcbb3b542485308a6d99756825b1e5"
 dependencies = [
  "cc",
  "softaes",
