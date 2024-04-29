@@ -4,8 +4,8 @@ version = 3
 
 [[package]]
 name = "aegis"
-version = "0.6.2"
-source = "git+https://github.com/mfrischknecht/rust-aegis.git?branch=debug#1c89b7e66bdcbb3b542485308a6d99756825b1e5"
+version = "0.6.3"
+source = "git+https://github.com/mfrischknecht/rust-aegis.git?branch=fix-rust-cross-mingw-compilation#d334ccd4a4f06f898d4d4bf487026a14f68f692f"
 dependencies = [
  "cc",
  "softaes",
